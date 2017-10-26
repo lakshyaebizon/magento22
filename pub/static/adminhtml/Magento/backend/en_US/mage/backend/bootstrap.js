@@ -1,1 +1,0 @@
-/var/www/html/magento22/lib/web/mage/backend/bootstrap.js

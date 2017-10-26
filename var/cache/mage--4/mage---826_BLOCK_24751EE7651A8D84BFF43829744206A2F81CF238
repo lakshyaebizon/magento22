@@ -1,6 +1,0 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1508974812;s:6:"expire";i:1508978412;s:4:"tags";s:57:"826_BLOCK_HTML,826_CAT_C,826_CAT_C_3,826_CAT_C_4,826_MAGE";}
-
-<nav class="navigation" data-action="navigation">
-    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
-        <li  class="level0 nav-1 first level-top parent"><a href="http://127.0.0.1/magento22/category1.html"  class="level-top" ><span>Category1</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 first last"><a href="http://127.0.0.1/magento22/category1/category1-1.html" ><span>Category1.1</span></a></li></ul></li><li  class="level0 nav-2 last level-top"><a href="http://127.0.0.1/magento22/category2.html"  class="level-top" ><span>Category2</span></a></li>            </ul>
-</nav>
