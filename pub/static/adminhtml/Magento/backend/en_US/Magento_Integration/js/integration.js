@@ -1,0 +1,1 @@
+/var/www/html/magento22/vendor/magento/module-integration/view/adminhtml/web/js/integration.js
